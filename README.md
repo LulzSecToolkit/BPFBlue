@@ -36,7 +36,7 @@ sudo apt install sudo bpftrace tcpdump
 ## Install & Usage:
 Warning ! Program using sudo.
    ```bash
-git clone https://github.com/shadowpgp/BPFBlue.git
+git clone https://github.com/LulzSecToolkit/BPFBlue.git
 cd BPFBlue
 sudo cp BPFBlue_2.1.sh /usr/bin/bpfblue
 sudo chmod +x /usr/bin/bpfblue
