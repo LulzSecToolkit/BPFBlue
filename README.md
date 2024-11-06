@@ -1,5 +1,5 @@
 
-# BPFBlue Passive Security Monitoring Tool
+# BPFBlue V2.1 Passive Security Monitoring Tool
 
 ## Overview
 BPFBlue is a powerful passive security monitoring tool built using eBPF (Extended Berkeley Packet Filter) and bpftrace. It allows users to monitor various system calls and network events on a Linux system, enabling security professionals to gain insights into system activities, detect malicious behaviors, and analyze performance.
